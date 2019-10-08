@@ -1,0 +1,36 @@
+var grocery = [{
+   "name": "Milk",
+   "image":"item1.png",
+   "price": 2,
+   "count":10
+}, {
+   "name": "Lemon",
+   "image":"item2.png",
+   "price": 1,
+   "count":15
+}, {
+   "name": "Orange juice",
+   "image": "item3.png",
+   "price": 3,
+   "count":2
+}, {
+   "name": "French Cheese",
+   "image": "item4.png",
+   "price": 5,
+   "count":4
+}, {
+   "name": "Tomato",
+   "image": "item5.png",
+   "price": 1,
+   "count":6 
+}, {
+   "name": "Bread",
+   "image": "item6.png",
+   "price": 3,
+   "count":12 
+}, {
+   "name": "Rice",
+   "image": "item7.png",
+   "price": 3,
+   "count":8 
+}];
